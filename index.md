@@ -16,5 +16,5 @@
 
 
 ## 記事一覧  
-
+- [AIチャレンジ2024環境でOSSをサブモジュールとして組み込む](https://akodama428.github.io/aichallenge2024_public/docs/apply_local_planner/article20240918.html)
 - [CARLA AD Challenge LeaderBoard2.0を動かしてみた](./doc/article20241217.md)  
